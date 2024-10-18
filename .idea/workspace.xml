@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="481c5447-4f21-44bd-a5b1-425a818464cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/fastAPIAssignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="481c5447-4f21-44bd-a5b1-425a818464cb" name="Changes" comment="Added get and put" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aglenn24/fastAPIAssignment.git",
+    "accountId": "5a43e9b2-f3eb-4282-9c8e-ae1eac095e1b"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -65,11 +64,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729269611878</updated>
-      <workItem from="1729269613328" duration="480000" />
+      <workItem from="1729269613328" duration="1735000" />
     </task>
+    <task id="LOCAL-00001" summary="Added get and put">
+      <option name="closed" value="true" />
+      <created>1729270271739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729270271739</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added get and put">
+      <option name="closed" value="true" />
+      <created>1729270357411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729270357411</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed typo in BaseModel name" />
+    <MESSAGE value="Added get and put" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added get and put" />
   </component>
 </project>
